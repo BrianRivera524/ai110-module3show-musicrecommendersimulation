@@ -132,7 +132,7 @@ pytest
 You can add more tests in 'tests/test_recommender.py'.
 
 PS C:\Users\river\Downloads\CodePath_TF_Tasks\ai110-module3show-musicrecommendersimulation> python -m pytest               
-========================================================================= test session starts =========================================================================
+========================== test session starts =========================
 platform win32 -- Python 3.14.5, pytest-9.0.3, pluggy-1.6.0
 rootdir: C:\Users\river\Downloads\CodePath_TF_Tasks\ai110-module3show-musicrecommendersimulation
 plugins: anyio-4.13.0
@@ -142,6 +142,19 @@ tests\test_recommender.py ..                                                    
 
 =========================== 2 passed in 0.16s =========================
 
+
+After new tests: 
+
+PS C:\Users\river\Downloads\CodePath_TF_Tasks\ai110-module3show-musicrecommendersimulation> python -m pytest  
+======================== test session starts ======================
+platform win32 -- Python 3.14.5, pytest-9.0.3, pluggy-1.6.0
+rootdir: C:\Users\river\Downloads\CodePath_TF_Tasks\ai110-module3show-musicrecommendersimulation
+plugins: anyio-4.13.0
+collected 7 items                                                                                                                                                      
+
+tests\test_recommender.py .......                                                                                                                                [100%]
+
+======================== 7 passed in 0.11s =======================
 ---
 
 ## Sample Recommendation Output
