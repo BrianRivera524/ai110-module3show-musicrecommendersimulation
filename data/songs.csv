@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Chicago,Michael Jackson,pop,moody,0.72,100,0.55,0.71,0.20
+12,Beggin',Måneskin,rock,intense,0.86,134,0.62,0.74,0.12
+13,Propuesta Indecente,Romeo Santos,bachata,romantic,0.64,120,0.70,0.86,0.38
+14,Tú Con Él,Frankie Ruiz,salsa,heartbroken,0.78,96,0.46,0.92,0.31
+15,Tú No Vive Así,Arcángel & Bad Bunny,latin trap,confident,0.82,130,0.55,0.84,0.07
+16,Voilà,Barbara Pravi,chanson,dramatic,0.52,92,0.50,0.42,0.72
+17,Helena,My Chemical Romance,emo,melancholic,0.89,125,0.38,0.49,0.05
+18,Titanium,David Guetta ft. Sia,edm,empowering,0.90,126,0.68,0.60,0.04
+19,My Immortal,Evanescence,alternative rock,melancholic,0.32,80,0.28,0.31,0.68
+20,Vivir Mi Vida,Marc Anthony,salsa,uplifting,0.84,105,0.88,0.79,0.22
